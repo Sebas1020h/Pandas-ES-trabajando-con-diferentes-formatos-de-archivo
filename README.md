@@ -30,11 +30,11 @@ pip install pandas pyarrow openpyxl
 jupyter notebook formatos.ipynb
 ```
 
-Opción 2: Google Colab
+###Opción 2: Google Colab
 
 Haz clic aquí para abrirlo directamente:
 
-📌 Lo que aprenderás
+## 📌 Lo que aprenderás
 
   pd.read_csv(), read_excel(), read_json(), read_table(), read_parquet(), etc.
   
@@ -46,18 +46,18 @@ Haz clic aquí para abrirlo directamente:
   
   Buenas prácticas sobre dónde mantener los datos data_in/ vs data_out/.
 
-🙌 Créditos y agradecimientos
+## 🙌 Créditos y agradecimientos
 
   Este proyecto fue desarrollado como parte del curso de análisis de datos con Python, impartido en Alura LATAM.
 
 Agradecimientos especiales a:
 
-👨‍🏫 Alejandro Gamarra
+## 👨‍🏫 Alejandro Gamarra
 
   Docente del programa de formación en ciencia de datos - Alura LATAM
   Por su acompañamiento pedagógico y su claridad en el uso de Pandas para trabajar con distintos formatos.
 
-🤝 Contribuciones
+## 🤝 Contribuciones
 
 Este proyecto es de código abierto. Si deseas aportar nuevos ejemplos, mejorar documentación o adaptar el notebook a otros formatos, ¡eres bienvenido!
 
@@ -71,7 +71,7 @@ Este proyecto es de código abierto. Si deseas aportar nuevos ejemplos, mejorar 
   
   Abre un pull request y describe tu aporte.
 
-📚 Recursos útiles
+## 📚 Recursos útiles
 
   Documentación oficial de Pandas(https://pandas.pydata.org/)
   
@@ -79,12 +79,10 @@ Este proyecto es de código abierto. Si deseas aportar nuevos ejemplos, mejorar 
   
   Alura LATAM (https://www.aluracursos.com/latam)
 
-🧠 Autor
+## 🧠 Autor
 
   Sebastián Urrego
-  
   GitHub: @Sebas1020h
-  
   Proyectos educativos y de ciencia de datos con Python.
 
 “Cada formato de archivo es una ventana diferente al conocimiento. Lo importante es saber cómo abrirla.” 📊
