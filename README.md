@@ -30,7 +30,7 @@ pip install pandas pyarrow openpyxl
 jupyter notebook formatos.ipynb
 ```
 
-###Opción 2: Google Colab
+### Opción 2: Google Colab
 
 Haz clic aquí para abrirlo directamente:
 
